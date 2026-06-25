@@ -6,8 +6,14 @@ This project is an interactive Sales Analytics Dashboard developed using Python,
 
 The dashboard helps analyze sales performance through dynamic filters, KPI metrics, and visualizations. Users can explore sales trends by city, category, and date range.
 
----
+#Live Demo:
+      
+      https://sales-analytics-dashboard-epfk2ihjrf7r33wvc5mkbz.streamlit.app/
 
+#GitHub Repository
+
+      https://github.com/navin270-ux/Sales-Analytics-Dashboard
+      
 ## Features
 
 * ✅ City-wise filtering
